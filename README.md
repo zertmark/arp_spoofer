@@ -4,13 +4,6 @@ Simple arp spoofer on Python 3
 git clone https://github.com/zertmark/arp_spoofer.git && cd arp_spoofer && chmod +x arp_spoofer.py                
 # RUN                        
 ./arp_spoofer.py -h   
-                  ▄▄  ▄▄▄▄▄▄▄▄                                ▄▄        ▄▄                     
-       ██        ██   ▀▀▀▀▀███                        ██       █▄        █▄ 
-      ██        ██        ██▀    ▄████▄    ██▄████  ███████     █▄        █▄ 
-     ██        ██       ▄██▀    ██▄▄▄▄██   ██▀        ██         █▄        █▄
-    ▄█▀       ▄█▀      ▄██      ██▀▀▀▀▀▀   ██         ██          █▄        █ 
-   ▄█▀       ▄█▀      ███▄▄▄▄▄  ▀██▄▄▄▄█   ██         ██▄▄▄        █▄        █▄
-▄█▀       ▄█▀       ▀▀▀▀▀▀▀▀    ▀▀▀▀▀    ▀▀          ▀▀▀▀         █▄        █▄
 usage: arp_spoofer.py [-h] [-r ROUTER] [-v VICIM]                                                          
 
 ARP Spoofer                                              
